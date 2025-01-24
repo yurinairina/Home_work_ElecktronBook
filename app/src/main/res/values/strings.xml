@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Home_work_RelativeLayoutToggleButtonScrollView</string>
+    <string name="loadingBTN">Загрузить текст книги</string>
+    <string name="electron_book">Электронная книга</string>
+</resources>
